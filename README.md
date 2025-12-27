@@ -1,4 +1,6 @@
-👋 Hi, I'm Murat Beyazgül
+# 👋 Hi, I'm Murat Beyazgül
+
+---
 
 🎯 Software Engineer | Frontend Developer
 
@@ -6,7 +8,7 @@
 
 ---
 
-🛠️ Technologies I Use & Learn
+# 🛠️ Technologies I Use & Learn
 
 💻 Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Next.js  
 
@@ -16,7 +18,7 @@
 
 ---
 
-📬 Contact Me
+# 📬 Contact Me
 
 📧 beyazgul.murat2@gmail.com  
 
