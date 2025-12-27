@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Murat Beyazgül 
+---
+🎯 Software Engineer | Frontend Developer
+🚀 I am a highly motivated and disciplined software developer who enjoys continuously improving and challenging myself. I am driven by the process of turning ideas into real, working products and constantly pushing my limits to grow both technically and personally.
+---
+🛠️ Technologies I Use & Learn
+💻 Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Next.js  
+🌐 Backend: Node.js, Express.js, REST APIs
+🎨 Design: Responsive Design, UI/UX fundamentals 
+---
+📬 Contact  
+💌 beyazgul.murat2@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/muratbgul/
 
-<!--
-**muratbgul/muratbgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
